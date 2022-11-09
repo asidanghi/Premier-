@@ -5,12 +5,12 @@
 }
 .container {
     height: 100vh;
-    width: 110%;
+    width: 90%;
     background-image: url(images/bg.png);
     background-position: center;
     background-size: cover;
-    padding-right: 4%;
-    padding-left: 5%;
+    padding-right: 5%;
+    padding-left: 6%;
     box-sizing: border-box;
     position: relative;
 }
@@ -129,7 +129,7 @@ nav ul li a {
 }
 .pepsi {
     display: flex;
-    height: 90%;
+    height: 100%;
     position: absolute;
     width: 500px;
     margin-top: 80px;
